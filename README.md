@@ -1,2 +1,2 @@
-# ajax-data-storage
-ajax-data-storage
+### Ajax Study
+Flie format : json, csv, xml
