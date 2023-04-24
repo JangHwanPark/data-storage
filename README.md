@@ -1,2 +1,4 @@
 ### Ajax Study
-Flie format : json, csv, xml
+
+---
+File format : json, csv, xml
