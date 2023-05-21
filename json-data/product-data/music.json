@@ -1,16 +1,76 @@
 {
-        list : [
-            {youtube:"https://www.youtube.com/watch?v=pG6iaOMV46I",img:"img/001.jpg",musician:"IVE",title:"Kitsch"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/002.jpg",musician:"IVE",title:""},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/003.jpg",musician:"IVE",title:"After Like"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/004.jpg",musician:"NewJeans",title:"Love Dive"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/005.jpg",musician:"지수 (JISOO)",title:"꽃"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/006.jpg",musician:"NewJeans",title:"Zero"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/007.jpg",musician:"(여자)아이들",title:"TOMBOY"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/008.jpg",musician:"BLACKPINK",title:"Shut Down"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/009.jpg",musician:"NewJeans",title:"Ditto"},
-            {youtube:"https://www.youtube.com/watch?v=F0B7HDiY-10",img:"img/010.jpg",musician:"LE SSERAFIM",title:"ANTIFRAGILE"},
-            {youtube:"https://www.youtube.com/watch?v=JuyQQUqD64c&list=OLAK5uy_mQEe06LXboy54RWFRrx3umGiuoqTHiOuc",img:"img/011.jpg",musician:"あいみょん",title:"ai no hana"},
-            {youtube:"https://www.youtube.com/watch?v=0yoM7ETNPIY&list=OLAK5uy_nnNasS84CDxHk37skOKrMYJ9WWfsUxYuE",img:"img/012.jpg",musician:"YOASOBI",title:"はじめての - EP"},
-        ]
-    }
+    "list": [
+        {
+            "youtube": "https://www.youtube.com/watch?v=pG6iaOMV46I",
+            "img": "img/001.jpg",
+            "musician": "IVE",
+            "title": "Kitsch"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/002.jpg",
+            "musician": "IVE",
+            "title": ""
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/003.jpg",
+            "musician": "IVE",
+            "title": "After Like"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/004.jpg",
+            "musician": "NewJeans",
+            "title": "Love Dive"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/005.jpg",
+            "musician": "지수 (JISOO)",
+            "title": "꽃"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/006.jpg",
+            "musician": "NewJeans",
+            "title": "Zero"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/007.jpg",
+            "musician": "(여자)아이들",
+            "title": "TOMBOY"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/008.jpg",
+            "musician": "BLACKPINK",
+            "title": "Shut Down"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/009.jpg",
+            "musician": "NewJeans",
+            "title": "Ditto"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=F0B7HDiY-10",
+            "img": "img/010.jpg",
+            "musician": "LE SSERAFIM",
+            "title": "ANTIFRAGILE"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=JuyQQUqD64c&list=OLAK5uy_mQEe06LXboy54RWFRrx3umGiuoqTHiOuc",
+            "img": "img/011.jpg",
+            "musician": "あいみょん",
+            "title": "ai no hana"
+        },
+        {
+            "youtube": "https://www.youtube.com/watch?v=0yoM7ETNPIY&list=OLAK5uy_nnNasS84CDxHk37skOKrMYJ9WWfsUxYuE",
+            "img": "img/012.jpg",
+            "musician": "YOASOBI",
+            "title": "はじめての - EP"
+        }
+    ]
+}
