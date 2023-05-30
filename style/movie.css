@@ -1,0 +1,72 @@
+* {
+    font-family: '맑은 고딕', 'Nanum Gothic';
+}
+
+h1 {
+    text-align: center;
+}
+
+.clearfix:before,
+.clearfix:after {
+    display: block;
+    content: '';
+    line-height: 0;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.float {
+    float: left;
+}
+
+#movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    margin: 15px;
+    padding: 10px;
+    width: 400px;
+    overflow: hidden;
+    border: 1px #ddd solid;
+}
+
+.card:hover {
+    background-color: #fbffea;
+    border: 1px #999 solid;
+
+}
+
+.info {
+    margin-left: 5px;
+}
+
+.poster {
+    width: 180px;
+    margin-right: 5px;
+}
+
+.poster img {
+    width: 100%;
+}
+
+.sub-title {
+    width: 75px;
+}
+
+.summary {
+    margin-top: 15px;
+    padding-top: 10px;
+    text-align: justify;
+    overflow: hidden;
+    height: 130px;
+    border-top: 1px #555 dotted;
+}
