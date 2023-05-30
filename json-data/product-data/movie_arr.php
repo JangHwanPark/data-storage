@@ -1,6 +1,6 @@
 <?php
 
-$json["list"] = array(
+$movies["list"] = array(
   array(
   "href"=> "https://movie.daum.net/moviedb/main?movieId=115401",
   "img"=> "img/001.jpg",
