@@ -1,4 +1,6 @@
-### Ajax Study
+## File format
 
----
-File format : json, csv, xml
+- json
+- csv
+- xml
+- image
