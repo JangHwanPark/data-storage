@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ajax-data-storage.iml" filepath="$PROJECT_DIR$/.idea/ajax-data-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-storage.iml" filepath="$PROJECT_DIR$/.idea/data-storage.iml" />
     </modules>
   </component>
 </project>
